@@ -1,0 +1,7 @@
+html {
+    scroll-behavior: smooth;
+  }
+.w3-display-topleft w3-black w3-padding img{
+    width: 100%;
+    height: auto;
+}
